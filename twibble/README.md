@@ -1,6 +1,14 @@
 # twibble
 
 A new Flutter project.
+A chat app where  user can signup and signin  and chat(still in development) using Firebase.
+Also added a few animations on the loading screen.
+<img src = "https://github.com/nish3112/Twibble/blob/main/twibble/Twibble%20ScreenShots/Screenshot_1631026693.png" width="600" height="920" >
+<img src = "https://github.com/nish3112/Twibble/blob/main/twibble/Twibble%20ScreenShots/Screenshot_1631026697.png" width="600" height="920" >
+<img src = "https://github.com/nish3112/Twibble/blob/main/twibble/Twibble%20ScreenShots/Screenshot_1631026702.png" width="600" height="920" >
+<img src = "https://github.com/nish3112/Twibble/blob/main/twibble/Twibble%20ScreenShots/Screenshot_1631026721.png" width="600" height="920" >
+<img src = "https://github.com/nish3112/Twibble/blob/main/twibble/Twibble%20ScreenShots/Screenshot_1631026728.png" width="600" height="920" >
+
 
 ## Getting Started
 
